@@ -8,7 +8,7 @@
 #--------------------------------------------------------------
 
 # Create a variable pointing to the file with no header
-fileName = "data/raw/SaraNoHeader2.txt"
+fileName = "data/raw/SaraNoHeader.txt"
 
 # Open the file as a read-only file object
 fileObj = open(fileName, 'r')
